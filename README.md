@@ -1,0 +1,2 @@
+# PYNetworking
+PYNetworking is a very powerful network kit for iOS Project, it combines business logic solutions for socket and http tasks. With the best practices of oop,aop and iop we make API and Model to get a low coupling and high reusable. We are also add a NSOperationQueue to management network tasks, the max concurrent number of task set to be 40. This networkKit is just a frame for iOS network layer, if you use in your project you should redefine model，api methods and commands.
